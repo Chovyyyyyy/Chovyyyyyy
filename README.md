@@ -3,7 +3,7 @@
 - 🌱 I’m learning Distributed Systems and Distributed Database.
 - 💬 Ask me about Cpp, Go, Java(I hate Java~), Databases, k8s, I will try my best to answer.
 - 📫 How to reach me: yzh2316@163.com.
-- 😍 I am trying to do more lc.
+- 😍 I am waiting for ms intern chance.
 
 <!--
 **Chovyyyyyy/Chovyyyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

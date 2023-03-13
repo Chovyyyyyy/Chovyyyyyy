@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m working at didi for mpt Middle Platform , used to work at bilibili for golang backend development and Apache ShardingSphere
 - 🌱 I’m currently Distributed Systems and Distributed Database.
-- 💬 Ask me about Ask me about Go, Java(I hate Java~, Databases, k8s, I will try my best to answer.
+- 💬 Ask me about Ask me about Go, C++, Databases, k8s, I will try my best to answer.
 - 📫 How to reach me: yzh2316@163.com
 - 😄 Actually I am learning cmu 15-445 and try to writing my own database.
 - 😍 I am trying to do more leetcode.

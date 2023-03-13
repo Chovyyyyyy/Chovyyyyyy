@@ -1,7 +1,7 @@
 ### Hello,I’m Zihao Yu ! 👋
 - 🔭 I’m working at Tencent ieg , used to work at didi for mpt Middle Platform , Tencent teg TDSQL 3TS , bilibili for backend development
 - 🌱 I’m learning Distributed Systems and Distributed Database.
-- 💬 Ask me about Cpp, Go, Java(I hate Java~), Databases, k8s, I will try my best to answer.
+- 💬 Ask me about Cpp, Go, System, Databases, k8s, I will try my best to answer.
 - 📫 How to reach me: yzh2316@163.com.
 - 😍 I am planning to do more leetcode.
 
